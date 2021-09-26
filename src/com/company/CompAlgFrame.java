@@ -5,8 +5,8 @@ import java.awt.*;
 
 public class CompAlgFrame extends JFrame
 {
-    private static final int DEFAULT_WIDTH = 800;
-    private static final int DEFAULT_HEIGHT = 465;
+    private static final int DEFAULT_WIDTH = 820;
+    private static final int DEFAULT_HEIGHT = 480;
 
     private JPanel naturalPanel;
     private JPanel integerPanel;
