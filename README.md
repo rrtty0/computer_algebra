@@ -111,18 +111,18 @@ The list of operations, that user can perform
 <a id="anc4.5"></a>
 
 ### Polynomial
-- `ADD_PP_P`  - Addition of two polynoms
-- `SUB_PP_P`  - Difference of two polynoms
-- `MUL_PQ_P`  - Multiplication of polynom by a fraction
-- `MUL_PxK_P` - Multiplication of polynom by x in the degree of natural number
-- `LED_P_Q`   - Coefficient at the highest degree of polynom
-- `DEG_P_Z`   - Higher polynom degree
-- `FAC_P_Q`   - Greatest common divisor of numerators of polynom coefficients, noc of denominators of polynom coefficients
-- `MUL_PP_P`  - Multiplication of two polynoms
-- `DIV_PP_P`  - Quotient from division of two polynoms
-- `MOD_PP_P`  - Remaining from division of two polynoms
-- `GCF_PP_P`  - Greatest common divisor of two polynoms
-- `DER_P_P`   - Derivative of polynom
+- `ADD_PP_P`    - Addition of two polynoms
+- `SUB_PP_P`    - Difference of two polynoms
+- `MUL_PQ_P`    - Multiplication of polynom by a fraction
+- `MUL_PxK_P`   - Multiplication of polynom by x in the degree of natural number
+- `LED_P_Q`     - Coefficient at the highest degree of polynom
+- `DEG_P_Z`     - Higher polynom degree
+- `FAC_P_Q`     - Greatest common divisor of numerators of polynom coefficients, noc of denominators of polynom coefficients
+- `MUL_PP_P`    - Multiplication of two polynoms
+- `DIV_PP_P`    - Quotient from division of two polynoms
+- `MOD_PP_P`    - Remaining from division of two polynoms
+- `GCF_PP_P`    - Greatest common divisor of two polynoms
+- `DER_P_P`     - Derivative of polynom
 
 <a id="anc5"></a>
 
