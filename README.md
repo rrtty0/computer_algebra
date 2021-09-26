@@ -1,7 +1,7 @@
 # computer algebra
  
 ![GitHub last commit](https://img.shields.io/github/last-commit/rrtty0/computer_algebra?style=plastic)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rrtty0/computer_algebra)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rrtty0/computer_algebra?style=plastic)
 
 - [Installation](#anc1)
 - [Usage](#anc2)
